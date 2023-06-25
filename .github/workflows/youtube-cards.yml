@@ -15,4 +15,11 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
+          lang: en
+          comment_tag_name: YOUTUBE-CARDS
+          max_videos: 6
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
           channel_id: UCpvvUyrDXQzz7zMJcGGP4AA

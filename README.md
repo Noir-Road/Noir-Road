@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Dice Simulator 1.2 Beta](https://ytcards.demolab.com/?id=EZwK6lLWlb8&title=Dice+Simulator+1.2+Beta&lang=en&timestamp=1655942546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Dice Simulator 1.2 Beta")](https://www.youtube.com/watch?v=EZwK6lLWlb8)
+[![Asteroids Neon - Hardcore Expansion -](https://ytcards.demolab.com/?id=yrNj0xY69dY&title=Asteroids+Neon+-+Hardcore+Expansion+-&lang=en&timestamp=1650258809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Asteroids Neon - Hardcore Expansion -")](https://www.youtube.com/watch?v=yrNj0xY69dY)
+[![Tetrominoes - Android -](https://ytcards.demolab.com/?id=teqaD_MAcC8&title=Tetrominoes+-+Android+-&lang=en&timestamp=1649283946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tetrominoes - Android -")](https://www.youtube.com/watch?v=teqaD_MAcC8)
+[![Zig Zag Mana - Android -](https://ytcards.demolab.com/?id=S0ag-pIBwA8&title=Zig+Zag+Mana+-+Android+-&lang=en&timestamp=1649261026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Zig Zag Mana - Android -")](https://www.youtube.com/watch?v=S0ag-pIBwA8)
+[![Bedlam Upgrade Test](https://ytcards.demolab.com/?id=hMwxBgNEKNE&title=Bedlam+Upgrade+Test&lang=en&timestamp=1648402507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Bedlam Upgrade Test")](https://www.youtube.com/watch?v=hMwxBgNEKNE)
+[![Bedlam Log Update 1](https://ytcards.demolab.com/?id=G2yqmK0HVtI&title=Bedlam+Log+Update+1&lang=en&timestamp=1648308923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Bedlam Log Update 1")](https://www.youtube.com/watch?v=G2yqmK0HVtI)
 <!-- END YOUTUBE-CARDS -->
 
 <!--

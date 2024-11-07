@@ -1,8 +1,3 @@
-
-**`Excommunicado Gamer, Coding Aficionado.`**
-
-#
-
 **`Arsenal of Power`**
 
 <div>
